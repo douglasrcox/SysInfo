@@ -1,8 +1,0 @@
-D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\obj\Debug\WindowsApplication1.exe
-D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\obj\Debug\WindowsApplication1.pdb
-D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\bin\Debug\WindowsApplication1.exe
-D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\bin\Debug\WindowsApplication1.pdb
-D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
-D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\obj\Debug\WindowsApplication1.Form1.resources
-D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\obj\Debug\WindowsApplication1.Properties.Resources.resources
-D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
