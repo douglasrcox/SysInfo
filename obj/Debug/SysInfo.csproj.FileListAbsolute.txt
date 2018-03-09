@@ -1,0 +1,8 @@
+D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\obj\Debug\SysInfo.Main.resources
+D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\obj\Debug\SysInfo.Properties.Resources.resources
+D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\obj\Debug\SysInfo.csproj.GenerateResource.Cache
+D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\bin\Debug\SysInfo.exe.config
+D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\bin\Debug\SysInfo.exe
+D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\bin\Debug\SysInfo.pdb
+D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\obj\Debug\SysInfo.exe
+D:\My Documents\Personal\Development Projects\Projects\SysTool\SysTool\obj\Debug\SysInfo.pdb
